@@ -1,0 +1,5 @@
+------------ mapping phase analysis ------------
+Average: 380.9030303030303 %
+Max: 507.3 %
+Min: 173.3 %
+Execution time: 99 s

@@ -1,0 +1,3032 @@
+top - 21:22:16 up  5:41,  1 user,  load average: 1,15, 0,90, 0,70
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,4 us,  2,4 sy, 36,6 ni, 45,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    708,7 free,   2590,7 used,   4513,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4213,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1198516 339044  22212 S 333,3   4,2   0:15.09 cartogr+
+
+top - 21:22:19 up  5:41,  1 user,  load average: 1,15, 0,90, 0,70
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,4 us,  2,3 sy, 22,1 ni, 61,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    637,5 free,   2652,8 used,   4522,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4142,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1230836 381476  23544 S 217,7   4,8   0:21.62 cartogr+
+
+top - 21:22:22 up  5:41,  1 user,  load average: 1,29, 0,93, 0,72
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20,8 us,  3,0 sy, 20,4 ni, 55,6 id,  0,1 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    555,0 free,   2684,1 used,   4573,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4060,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1249268 383324  23544 S 208,3   4,8   0:27.87 cartogr+
+
+top - 21:22:25 up  5:41,  1 user,  load average: 1,29, 0,93, 0,72
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,7 us,  2,7 sy, 48,7 ni, 31,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    630,5 free,   2649,3 used,   4533,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4135,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 S 437,0   4,3   0:40.98 cartogr+
+
+top - 21:22:28 up  5:41,  1 user,  load average: 1,51, 0,98, 0,73
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 19,8 us,  3,4 sy, 35,7 ni, 40,7 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    645,3 free,   2632,4 used,   4535,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4151,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 S 338,5   4,3   0:51.17 cartogr+
+
+top - 21:22:31 up  5:41,  1 user,  load average: 2,35, 1,17, 0,79
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 22,3 us,  4,7 sy, 43,9 ni, 29,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    578,0 free,   2651,5 used,   4583,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4084,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 S 406,3   4,3   1:03.36 cartogr+
+
+top - 21:22:34 up  5:41,  1 user,  load average: 2,35, 1,17, 0,79
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,4 us,  3,6 sy, 46,4 ni, 31,6 id,  0,0 wa,  0,0 hi,  2,0 si,  0,0 st
+MiB Mem :   7812,9 total,    623,5 free,   2654,3 used,   4535,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4129,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 S 431,3   4,3   1:16.30 cartogr+
+
+top - 21:22:37 up  5:41,  1 user,  load average: 2,96, 1,31, 0,84
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,0 us,  1,9 sy, 48,4 ni, 32,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    632,2 free,   2638,0 used,   4542,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4138,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 R 423,9   4,3   1:29.06 cartogr+
+
+top - 21:22:40 up  5:41,  1 user,  load average: 2,96, 1,31, 0,84
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20,4 us,  2,8 sy, 49,0 ni, 27,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    625,2 free,   2644,3 used,   4543,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4131,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 R 440,3   4,3   1:42.27 cartogr+
+
+top - 21:22:43 up  5:41,  1 user,  load average: 3,13, 1,37, 0,87
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,5 us,  2,3 sy, 49,6 ni, 30,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    624,5 free,   2646,4 used,   4542,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4131,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 R 440,7   4,3   1:55.49 cartogr+
+
+top - 21:22:46 up  5:42,  1 user,  load average: 3,52, 1,48, 0,91
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,8 us,  2,6 sy, 49,3 ni, 30,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    633,4 free,   2641,1 used,   4538,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4140,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 S 441,0   4,3   2:08.72 cartogr+
+
+top - 21:22:49 up  5:42,  1 user,  load average: 3,52, 1,48, 0,91
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,4 us,  2,2 sy, 49,6 ni, 31,4 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    646,8 free,   2643,5 used,   4522,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4153,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 S 437,5   4,3   2:21.89 cartogr+
+
+top - 21:22:52 up  5:42,  1 user,  load average: 3,64, 1,54, 0,93
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,4 us,  2,1 sy, 48,1 ni, 34,1 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    648,0 free,   2647,9 used,   4517,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4155,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1213348 347536  23544 R 421,0   4,3   2:34.52 cartogr+
+
+top - 21:22:55 up  5:42,  1 user,  load average: 3,64, 1,54, 0,93
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18,0 us,  2,1 sy, 48,7 ni, 31,1 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    633,9 free,   2647,0 used,   4532,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4141,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 433,7   4,4   2:47.53 cartogr+
+
+top - 21:22:58 up  5:42,  1 user,  load average: 3,75, 1,60, 0,95
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,8 us,  2,1 sy, 49,4 ni, 31,5 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    633,9 free,   2650,5 used,   4528,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4141,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 434,0   4,4   3:00.55 cartogr+
+
+top - 21:23:01 up  5:42,  1 user,  load average: 3,93, 1,67, 0,98
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,7 us,  2,9 sy, 44,7 ni, 35,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    641,3 free,   2647,3 used,   4524,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4148,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 396,7   4,4   3:12.49 cartogr+
+
+top - 21:23:04 up  5:42,  1 user,  load average: 3,93, 1,67, 0,98
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,1 us,  2,0 sy, 44,2 ni, 38,4 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    634,5 free,   2652,6 used,   4525,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4142,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 387,3   4,4   3:24.11 cartogr+
+
+top - 21:23:07 up  5:42,  1 user,  load average: 3,61, 1,65, 0,97
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,7 us,  2,2 sy, 17,7 ni, 67,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    629,9 free,   2651,1 used,   4531,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4137,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 173,3   4,4   3:29.31 cartogr+
+
+top - 21:23:10 up  5:42,  1 user,  load average: 3,61, 1,65, 0,97
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,0 us,  2,0 sy, 49,4 ni, 31,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    630,6 free,   2655,0 used,   4527,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4138,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 440,7   4,4   3:42.53 cartogr+
+
+top - 21:23:13 up  5:42,  1 user,  load average: 3,72, 1,70, 0,99
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,1 us,  2,3 sy, 46,5 ni, 34,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    628,7 free,   2655,8 used,   4528,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4136,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 410,6   4,4   3:54.89 cartogr+
+
+top - 21:23:16 up  5:42,  1 user,  load average: 4,31, 1,86, 1,05
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,8 us,  2,0 sy, 49,5 ni, 32,5 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    629,5 free,   2659,1 used,   4524,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4137,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 434,0   4,4   4:07.91 cartogr+
+
+top - 21:23:19 up  5:42,  1 user,  load average: 4,31, 1,86, 1,05
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,5 us,  1,9 sy, 49,3 ni, 33,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    635,9 free,   2656,8 used,   4520,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4144,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 426,9   4,4   4:20.76 cartogr+
+
+top - 21:23:22 up  5:42,  1 user,  load average: 4,36, 1,91, 1,07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,9 us,  2,1 sy, 33,5 ni, 48,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    635,4 free,   2658,1 used,   4519,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4144,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 306,3   4,4   4:29.95 cartogr+
+
+top - 21:23:25 up  5:42,  1 user,  load average: 4,36, 1,91, 1,07
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,5 us,  2,1 sy, 25,3 ni, 57,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    633,5 free,   2660,3 used,   4519,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4142,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 239,0   4,4   4:37.12 cartogr+
+
+top - 21:23:28 up  5:42,  1 user,  load average: 4,17, 1,91, 1,08
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,1 us,  2,1 sy, 42,3 ni, 40,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    635,9 free,   2653,1 used,   4523,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4144,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 375,0   4,4   4:48.37 cartogr+
+
+top - 21:23:31 up  5:42,  1 user,  load average: 4,32, 1,98, 1,10
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,8 us,  2,4 sy, 48,3 ni, 32,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    640,1 free,   2651,1 used,   4521,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4149,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 429,6   4,4   5:01.30 cartogr+
+
+top - 21:23:34 up  5:42,  1 user,  load average: 4,32, 1,98, 1,10
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,3 us,  2,3 sy, 43,3 ni, 37,8 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    637,6 free,   2652,0 used,   4523,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4146,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 384,3   4,4   5:12.83 cartogr+
+
+top - 21:23:37 up  5:42,  1 user,  load average: 4,05, 1,96, 1,10
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,7 us,  1,9 sy, 33,2 ni, 49,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    626,7 free,   2654,5 used,   4531,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4136,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 311,0   4,4   5:22.16 cartogr+
+
+top - 21:23:40 up  5:42,  1 user,  load average: 4,05, 1,96, 1,10
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,0 us,  2,3 sy, 48,7 ni, 32,7 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    625,6 free,   2664,1 used,   4523,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4135,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 427,6   4,4   5:35.03 cartogr+
+
+top - 21:23:43 up  5:42,  1 user,  load average: 3,97, 1,98, 1,11
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,1 us,  2,4 sy, 49,3 ni, 33,2 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    625,7 free,   2659,4 used,   4527,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4135,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 429,3   4,4   5:47.91 cartogr+
+
+top - 21:23:46 up  5:43,  1 user,  load average: 4,05, 2,03, 1,13
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,7 us,  2,3 sy, 48,0 ni, 33,7 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    633,9 free,   2656,0 used,   4523,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4143,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 423,3   4,4   6:00.61 cartogr+
+
+top - 21:23:49 up  5:43,  1 user,  load average: 4,05, 2,03, 1,13
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  2,1 sy, 49,3 ni, 33,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    633,3 free,   2656,2 used,   4523,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4143,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 434,0   4,4   6:13.63 cartogr+
+
+top - 21:23:52 up  5:43,  1 user,  load average: 4,13, 2,08, 1,15
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,2 us,  1,8 sy, 48,9 ni, 34,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    639,0 free,   2653,8 used,   4520,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4149,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 423,9   4,4   6:26.39 cartogr+
+
+top - 21:23:55 up  5:43,  1 user,  load average: 4,13, 2,08, 1,15
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,3 us,  2,4 sy, 48,3 ni, 34,6 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    635,8 free,   2657,5 used,   4519,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4146,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 422,3   4,4   6:39.06 cartogr+
+
+top - 21:23:58 up  5:43,  1 user,  load average: 4,20, 2,13, 1,17
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,1 us,  2,1 sy, 48,8 ni, 32,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    638,1 free,   2651,8 used,   4523,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4148,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 432,0   4,4   6:52.02 cartogr+
+
+top - 21:24:01 up  5:43,  1 user,  load average: 4,18, 2,16, 1,19
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,3 us,  1,3 sy, 42,3 ni, 41,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    643,6 free,   2647,3 used,   4522,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4154,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 370,8   4,4   7:03.18 cartogr+
+
+top - 21:24:04 up  5:43,  1 user,  load average: 4,18, 2,16, 1,19
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,3 us,  1,9 sy, 23,0 ni, 61,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    640,4 free,   2648,5 used,   4524,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4151,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 217,7   4,4   7:09.71 cartogr+
+
+top - 21:24:07 up  5:43,  1 user,  load average: 4,01, 2,16, 1,19
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,5 us,  2,2 sy, 32,2 ni, 51,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    650,0 free,   2639,7 used,   4523,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4160,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 292,7   4,4   7:18.49 cartogr+
+
+top - 21:24:10 up  5:43,  1 user,  load average: 4,01, 2,16, 1,19
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,6 us,  2,3 sy, 31,2 ni, 51,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    646,5 free,   2646,8 used,   4519,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4157,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 288,3   4,4   7:27.14 cartogr+
+
+top - 21:24:13 up  5:43,  1 user,  load average: 4,09, 2,20, 1,21
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,9 us,  2,1 sy, 26,2 ni, 57,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    640,3 free,   2650,2 used,   4522,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4151,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 244,0   4,4   7:34.46 cartogr+
+
+top - 21:24:16 up  5:43,  1 user,  load average: 3,84, 2,18, 1,21
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,1 us,  1,9 sy, 26,4 ni, 57,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    638,0 free,   2656,8 used,   4518,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4149,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 R 245,8   4,4   7:41.86 cartogr+
+
+top - 21:24:19 up  5:43,  1 user,  load average: 3,84, 2,18, 1,21
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,7 us,  1,9 sy, 22,3 ni, 61,7 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    635,0 free,   2657,6 used,   4520,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4146,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 216,3   4,4   7:48.35 cartogr+
+
+top - 21:24:22 up  5:43,  1 user,  load average: 4,09, 2,26, 1,24
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,0 us,  2,0 sy, 19,5 ni, 64,2 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    634,8 free,   2660,2 used,   4517,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4146,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1214376 348856  23544 S 197,0   4,4   7:54.26 cartogr+
+
+top - 21:24:25 up  5:43,  1 user,  load average: 4,09, 2,26, 1,24
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,1 us,  2,3 sy, 28,7 ni, 54,7 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    599,6 free,   2697,2 used,   4516,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4111,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1223920 390840  23544 S 269,7   4,9   8:02.35 cartogr+
+
+top - 21:24:28 up  5:43,  1 user,  load average: 4,00, 2,28, 1,25
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,3 us,  2,0 sy, 32,3 ni, 52,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    556,8 free,   2740,1 used,   4516,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4068,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1259436 435188  23544 S 292,7   5,4   8:11.16 cartogr+
+
+top - 21:24:31 up  5:43,  1 user,  load average: 4,08, 2,32, 1,27
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,9 us,  2,2 sy, 35,4 ni, 47,2 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    577,3 free,   2715,7 used,   4519,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4088,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1227960 411776  23544 R 326,0   5,1   8:20.94 cartogr+
+
+top - 21:24:34 up  5:43,  1 user,  load average: 4,08, 2,32, 1,27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,1 us,  2,3 sy, 37,5 ni, 44,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    500,7 free,   2781,7 used,   4530,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4012,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1301784 486012  23544 S 343,0   6,1   8:31.23 cartogr+
+
+top - 21:24:37 up  5:43,  1 user,  load average: 4,24, 2,38, 1,30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,1 us,  2,5 sy, 33,3 ni, 48,8 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    234,9 free,   3042,5 used,   4535,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3746,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1626824 753940  23544 R 313,3   9,4   8:40.66 cartogr+
+
+top - 21:24:40 up  5:43,  1 user,  load average: 4,24, 2,38, 1,30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,7 us,  2,9 sy, 40,8 ni, 40,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    247,2 free,   3027,2 used,   4538,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3759,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1609152 738148  23544 R 377,7   9,2   8:51.99 cartogr+
+
+top - 21:24:43 up  5:43,  1 user,  load average: 4,22, 2,41, 1,31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  2,5 sy, 42,4 ni, 39,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    554,2 free,   2732,6 used,   4526,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4066,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1290352 448408  23544 S 382,7   5,6   9:03.47 cartogr+
+
+top - 21:24:46 up  5:44,  1 user,  load average: 4,20, 2,44, 1,33
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,0 us,  2,0 sy, 33,3 ni, 50,5 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    540,2 free,   2744,8 used,   4527,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4052,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1297372 457104  23544 R 303,0   5,7   9:12.59 cartogr+
+
+top - 21:24:49 up  5:44,  1 user,  load average: 4,20, 2,44, 1,33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,4 us,  3,3 sy, 48,4 ni, 33,5 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    457,5 free,   2827,5 used,   4527,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3969,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1375144 536360  23544 S 437,0   6,7   9:25.70 cartogr+
+
+top - 21:24:52 up  5:44,  1 user,  load average: 4,10, 2,45, 1,34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,7 us,  2,4 sy, 37,9 ni, 44,5 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    505,4 free,   2781,2 used,   4526,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4017,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 488640  23544 S 343,3   6,1   9:36.00 cartogr+
+
+top - 21:24:55 up  5:44,  1 user,  load average: 4,10, 2,45, 1,34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,3 us,  3,0 sy, 44,6 ni, 36,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    460,5 free,   2823,7 used,   4528,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3972,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1370216 531868  23544 S 402,3   6,6   9:48.07 cartogr+
+
+top - 21:24:58 up  5:44,  1 user,  load average: 4,18, 2,49, 1,36
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,1 us,  2,9 sy, 40,9 ni, 39,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    447,9 free,   2834,2 used,   4530,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3960,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376728 538132  23544 S 375,1   6,7   9:59.36 cartogr+
+
+top - 21:25:01 up  5:44,  1 user,  load average: 4,24, 2,53, 1,38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,2 us,  3,3 sy, 39,7 ni, 41,5 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    348,5 free,   2933,9 used,   4530,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3861,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1479152 640556  23544 S 366,7   8,0  10:10.36 cartogr+
+
+top - 21:25:04 up  5:44,  1 user,  load average: 4,24, 2,53, 1,38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,9 us,  2,3 sy, 32,4 ni, 50,1 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    493,9 free,   2791,5 used,   4527,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4006,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 489032  23544 S 301,0   6,1  10:19.42 cartogr+
+
+top - 21:25:07 up  5:44,  1 user,  load average: 4,22, 2,56, 1,39
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,4 us,  2,8 sy, 45,5 ni, 36,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    492,7 free,   2790,2 used,   4530,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4005,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 489032  23544 R 407,7   6,1  10:31.65 cartogr+
+
+top - 21:25:10 up  5:44,  1 user,  load average: 4,22, 2,56, 1,39
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,9 us,  2,6 sy, 39,6 ni, 41,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    490,5 free,   2787,0 used,   4535,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4003,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 489032  23544 S 357,0   6,1  10:42.36 cartogr+
+
+top - 21:25:13 up  5:44,  1 user,  load average: 4,45, 2,63, 1,42
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  2,2 sy, 48,7 ni, 32,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    480,6 free,   2794,4 used,   4538,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3993,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 489032  23544 R 431,2   6,1  10:55.34 cartogr+
+
+top - 21:25:16 up  5:44,  1 user,  load average: 4,57, 2,69, 1,45
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,3 us,  2,1 sy, 48,3 ni, 32,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    486,1 free,   2798,6 used,   4528,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3999,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 R 430,7   6,1  11:08.26 cartogr+
+
+top - 21:25:19 up  5:44,  1 user,  load average: 4,57, 2,69, 1,45
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  2,5 sy, 49,0 ni, 31,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    479,6 free,   2796,9 used,   4536,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3992,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 436,7   6,1  11:21.36 cartogr+
+
+top - 21:25:22 up  5:44,  1 user,  load average: 4,61, 2,73, 1,47
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,0 us,  2,2 sy, 48,6 ni, 31,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    480,4 free,   2800,3 used,   4532,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3993,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 R 433,6   6,1  11:34.41 cartogr+
+
+top - 21:25:25 up  5:44,  1 user,  load average: 4,61, 2,73, 1,47
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,9 us,  2,8 sy, 48,2 ni, 30,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    481,7 free,   2797,7 used,   4533,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3995,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 R 433,0   6,1  11:47.40 cartogr+
+
+top - 21:25:28 up  5:44,  1 user,  load average: 4,80, 2,80, 1,50
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,4 us,  2,5 sy, 49,4 ni, 30,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    482,7 free,   2797,4 used,   4532,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3996,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 R 438,0   6,1  12:00.54 cartogr+
+
+top - 21:25:31 up  5:44,  1 user,  load average: 4,89, 2,85, 1,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,0 us,  2,3 sy, 49,1 ni, 32,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    486,5 free,   2792,8 used,   4533,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4000,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 438,0   6,1  12:13.68 cartogr+
+
+top - 21:25:34 up  5:44,  1 user,  load average: 4,89, 2,85, 1,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,5 us,  2,8 sy, 48,1 ni, 31,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    478,8 free,   2802,9 used,   4531,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3992,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 430,9   6,1  12:26.65 cartogr+
+
+top - 21:25:37 up  5:44,  1 user,  load average: 4,90, 2,89, 1,54
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,0 us,  2,3 sy, 49,9 ni, 32,5 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    478,2 free,   2800,3 used,   4534,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3992,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 442,3   6,1  12:39.92 cartogr+
+
+top - 21:25:40 up  5:44,  1 user,  load average: 4,90, 2,89, 1,54
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,5 us,  2,3 sy, 48,1 ni, 32,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    477,0 free,   2806,1 used,   4529,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3991,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 R 426,9   6,1  12:52.77 cartogr+
+
+top - 21:25:43 up  5:44,  1 user,  load average: 5,07, 2,95, 1,57
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,9 us,  2,9 sy, 48,5 ni, 31,4 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    477,9 free,   2805,3 used,   4529,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3992,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 431,0   6,1  13:05.70 cartogr+
+
+top - 21:25:46 up  5:45,  1 user,  load average: 5,06, 2,99, 1,59
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,4 us,  3,0 sy, 48,4 ni, 31,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    476,6 free,   2803,4 used,   4532,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3991,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 434,7   6,1  13:18.74 cartogr+
+
+top - 21:25:49 up  5:45,  1 user,  load average: 5,06, 2,99, 1,59
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,8 us,  2,3 sy, 47,8 ni, 32,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    475,5 free,   2800,7 used,   4536,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3990,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 R 425,0   6,1  13:31.49 cartogr+
+
+top - 21:25:52 up  5:45,  1 user,  load average: 5,14, 3,04, 1,61
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,7 us,  2,5 sy, 49,3 ni, 30,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    474,8 free,   2796,9 used,   4541,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3989,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 R 446,7   6,1  13:44.89 cartogr+
+
+top - 21:25:55 up  5:45,  1 user,  load average: 5,14, 3,04, 1,61
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  2,4 sy, 48,4 ni, 32,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    474,1 free,   2800,3 used,   4538,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3989,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 428,9   6,1  13:57.80 cartogr+
+
+top - 21:25:58 up  5:45,  1 user,  load average: 5,05, 3,06, 1,63
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,3 us,  2,5 sy, 48,0 ni, 32,7 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    467,6 free,   2804,1 used,   4541,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3982,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 431,7   6,1  14:10.75 cartogr+
+
+top - 21:26:01 up  5:45,  1 user,  load average: 4,96, 3,07, 1,64
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,0 us,  2,7 sy, 46,8 ni, 33,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    470,8 free,   2811,8 used,   4530,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3986,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 425,0   6,1  14:23.50 cartogr+
+
+top - 21:26:04 up  5:45,  1 user,  load average: 4,96, 3,07, 1,64
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,8 us,  2,4 sy, 15,1 ni, 66,4 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    471,1 free,   2809,1 used,   4532,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3986,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 166,4   6,1  14:28.51 cartogr+
+
+top - 21:26:07 up  5:45,  1 user,  load average: 4,73, 3,05, 1,64
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,2 us,  2,8 sy, 11,0 ni, 70,5 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    473,2 free,   2809,4 used,   4530,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3988,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S 133,0   6,1  14:32.50 cartogr+
+
+top - 21:26:10 up  5:45,  1 user,  load average: 4,73, 3,05, 1,64
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,3 us,  2,7 sy,  2,7 ni, 80,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    469,7 free,   2806,1 used,   4537,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3985,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 S  61,0   6,1  14:34.33 cartogr+
+
+top - 21:26:13 up  5:45,  1 user,  load average: 4,75, 3,09, 1,66
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,8 us,  3,1 sy,  5,5 ni, 75,0 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    471,4 free,   2809,1 used,   4532,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3987,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1327372 490084  23544 R  91,0   6,1  14:37.06 cartogr+
+
+top - 21:26:16 up  5:45,  1 user,  load average: 4,69, 3,10, 1,67
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,6 us,  2,7 sy, 18,0 ni, 64,2 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    352,9 free,   2915,0 used,   4545,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3868,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1447984 610488  23544 S 188,0   7,6  14:42.72 cartogr+
+
+top - 21:26:19 up  5:45,  1 user,  load average: 4,69, 3,10, 1,67
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,2 us,  3,4 sy, 44,2 ni, 35,8 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    246,2 free,   3034,2 used,   4532,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3762,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1573544 735880  23544 S 408,3   9,2  14:54.97 cartogr+
+
+top - 21:26:22 up  5:45,  1 user,  load average: 4,87, 3,17, 1,70
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,8 us,  3,1 sy, 38,2 ni, 42,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    470,4 free,   2802,2 used,   4540,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3986,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1336632 499348  23544 R 358,3   6,2  15:05.72 cartogr+
+
+top - 21:26:25 up  5:45,  1 user,  load average: 4,87, 3,17, 1,70
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,0 us,  3,2 sy, 33,5 ni, 47,0 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    351,9 free,   2915,2 used,   4545,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3868,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1456320 618956  23544 S 322,9   7,7  15:15.44 cartogr+
+
+top - 21:26:28 up  5:45,  1 user,  load average: 4,88, 3,20, 1,72
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,8 us,  3,6 sy, 48,4 ni, 30,7 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    263,9 free,   3007,2 used,   4541,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3780,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1545168 707656  23544 R 450,3   8,8  15:28.95 cartogr+
+
+top - 21:26:31 up  5:45,  1 user,  load average: 4,81, 3,21, 1,73
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,2 us,  3,4 sy, 43,3 ni, 36,8 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    228,5 free,   3047,2 used,   4537,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3744,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1576840 739336  23544 R 402,0   9,2  15:41.01 cartogr+
+
+top - 21:26:34 up  5:45,  1 user,  load average: 4,81, 3,21, 1,73
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,9 us,  3,8 sy, 33,2 ni, 47,7 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    212,0 free,   3062,5 used,   4538,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3728,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1593584 755700  23544 R 316,7   9,4  15:50.51 cartogr+
+
+top - 21:26:37 up  5:45,  1 user,  load average: 5,15, 3,31, 1,77
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,0 us,  2,9 sy, 36,2 ni, 45,5 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    374,0 free,   2902,8 used,   4536,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3890,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1428936 591236  23544 R 335,5   7,4  16:00.61 cartogr+
+
+top - 21:26:40 up  5:45,  1 user,  load average: 5,15, 3,31, 1,77
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,7 us,  3,2 sy, 48,6 ni, 32,1 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    351,5 free,   2923,4 used,   4538,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3868,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1450928 614392  23544 S 443,7   7,7  16:13.92 cartogr+
+
+top - 21:26:43 up  5:45,  1 user,  load average: 5,14, 3,34, 1,79
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,7 us,  2,8 sy, 27,9 ni, 54,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    421,9 free,   2858,3 used,   4532,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3938,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1381584 545228  23544 S 270,7   6,8  16:22.04 cartogr+
+
+top - 21:26:46 up  5:46,  1 user,  load average: 5,29, 3,40, 1,82
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,1 us,  2,7 sy, 33,0 ni, 48,9 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    376,5 free,   2903,7 used,   4532,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3893,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1429904 593536  23544 S 313,3   7,4  16:31.44 cartogr+
+
+top - 21:26:49 up  5:46,  1 user,  load average: 5,29, 3,40, 1,82
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,4 us,  3,4 sy, 40,3 ni, 40,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    456,7 free,   2809,2 used,   4547,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3973,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 501864  23544 R 375,7   6,3  16:42.75 cartogr+
+
+top - 21:26:52 up  5:46,  1 user,  load average: 5,10, 3,39, 1,82
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,7 us,  3,3 sy, 35,0 ni, 45,6 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    400,7 free,   2872,6 used,   4539,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3917,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1452412 575248  23544 S 334,3   7,2  16:52.78 cartogr+
+
+top - 21:26:55 up  5:46,  1 user,  load average: 5,10, 3,39, 1,82
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,9 us,  3,0 sy, 41,9 ni, 38,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    364,5 free,   2900,6 used,   4547,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3881,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1480496 603500  23544 S 390,7   7,5  17:04.50 cartogr+
+
+top - 21:26:58 up  5:46,  1 user,  load average: 5,17, 3,43, 1,85
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,8 us,  3,4 sy, 39,5 ni, 38,9 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    296,4 free,   2957,1 used,   4559,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3813,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1540784 667296  23544 R 381,4   8,3  17:15.98 cartogr+
+
+top - 21:27:01 up  5:46,  1 user,  load average: 5,32, 3,49, 1,87
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,4 us,  3,1 sy, 29,8 ni, 49,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    427,0 free,   2832,9 used,   4553,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3944,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529136  23544 S 305,3   6,6  17:25.14 cartogr+
+
+top - 21:27:04 up  5:46,  1 user,  load average: 5,32, 3,49, 1,87
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18,3 us,  3,1 sy, 45,1 ni, 33,0 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    364,4 free,   2880,0 used,   4568,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3881,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1453008 580104  23544 R 428,0   7,3  17:37.98 cartogr+
+
+top - 21:27:07 up  5:46,  1 user,  load average: 5,14, 3,48, 1,88
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,1 us,  2,9 sy, 34,8 ni, 44,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    425,5 free,   2841,6 used,   4545,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3942,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 331,6   6,6  17:47.96 cartogr+
+
+top - 21:27:10 up  5:46,  1 user,  load average: 5,14, 3,48, 1,88
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18,7 us,  2,5 sy, 47,6 ni, 30,9 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    416,8 free,   2833,5 used,   4562,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3934,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 439,7   6,6  18:01.15 cartogr+
+
+top - 21:27:13 up  5:46,  1 user,  load average: 5,12, 3,51, 1,90
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,2 us,  2,6 sy, 46,1 ni, 35,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    433,0 free,   2831,9 used,   4548,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3950,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 R 419,0   6,6  18:13.72 cartogr+
+
+top - 21:27:16 up  5:46,  1 user,  load average: 5,35, 3,58, 1,93
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,8 us,  2,1 sy, 48,0 ni, 32,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    425,6 free,   2835,9 used,   4551,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3943,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 R 436,3   6,6  18:26.81 cartogr+
+
+top - 21:27:19 up  5:46,  1 user,  load average: 5,35, 3,58, 1,93
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,2 us,  3,0 sy, 38,0 ni, 43,4 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    431,6 free,   2827,5 used,   4553,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3949,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 R 352,7   6,6  18:37.39 cartogr+
+
+top - 21:27:22 up  5:46,  1 user,  load average: 5,41, 3,62, 1,95
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,7 us,  2,7 sy, 46,9 ni, 33,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    437,0 free,   2834,9 used,   4541,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3954,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 R 424,6   6,6  18:50.17 cartogr+
+
+top - 21:27:25 up  5:46,  1 user,  load average: 5,41, 3,62, 1,95
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,9 us,  2,9 sy, 47,5 ni, 32,2 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    451,1 free,   2825,2 used,   4536,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3969,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 428,7   6,6  19:03.03 cartogr+
+
+top - 21:27:28 up  5:46,  1 user,  load average: 5,45, 3,66, 1,97
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,7 us,  2,4 sy, 48,6 ni, 30,8 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    437,5 free,   2827,0 used,   4548,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3955,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 439,7   6,6  19:16.22 cartogr+
+
+top - 21:27:31 up  5:46,  1 user,  load average: 5,50, 3,70, 2,00
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,9 us,  2,6 sy, 48,3 ni, 32,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    434,7 free,   2837,0 used,   4541,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3952,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 R 432,9   6,6  19:29.25 cartogr+
+
+top - 21:27:34 up  5:46,  1 user,  load average: 5,50, 3,70, 2,00
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18,0 us,  3,0 sy, 42,0 ni, 36,4 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    432,0 free,   2836,7 used,   4544,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3950,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 390,3   6,6  19:40.96 cartogr+
+
+top - 21:27:37 up  5:46,  1 user,  load average: 5,38, 3,71, 2,01
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,9 us,  2,8 sy, 32,4 ni, 48,4 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    445,0 free,   2830,4 used,   4537,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3963,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 303,3   6,6  19:50.06 cartogr+
+
+top - 21:27:40 up  5:46,  1 user,  load average: 5,38, 3,71, 2,01
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,1 us,  2,8 sy, 27,2 ni, 53,5 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    441,7 free,   2832,9 used,   4538,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3960,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 261,5   6,6  19:57.93 cartogr+
+
+top - 21:27:43 up  5:46,  1 user,  load average: 5,43, 3,75, 2,03
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,1 us,  3,0 sy, 35,4 ni, 45,0 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    438,9 free,   2836,0 used,   4538,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3957,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 R 330,0   6,6  20:07.83 cartogr+
+
+top - 21:27:46 up  5:47,  1 user,  load average: 5,47, 3,78, 2,05
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  2,9 sy, 35,2 ni, 45,0 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    427,7 free,   2836,8 used,   4548,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3946,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 R 335,7   6,6  20:17.90 cartogr+
+
+top - 21:27:49 up  5:47,  1 user,  load average: 5,47, 3,78, 2,05
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,3 us,  2,8 sy, 48,3 ni, 31,1 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    422,3 free,   2842,0 used,   4548,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3941,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 440,7   6,6  20:31.12 cartogr+
+
+top - 21:27:52 up  5:47,  1 user,  load average: 5,52, 3,82, 2,07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,2 us,  2,8 sy, 49,0 ni, 30,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    434,9 free,   2837,4 used,   4540,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3953,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 443,2   6,6  20:44.46 cartogr+
+
+top - 21:27:55 up  5:47,  1 user,  load average: 5,52, 3,82, 2,07
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,2 us,  3,2 sy, 46,9 ni, 32,3 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    433,7 free,   2836,8 used,   4542,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3952,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 427,3   6,6  20:57.28 cartogr+
+
+top - 21:27:58 up  5:47,  1 user,  load average: 5,64, 3,87, 2,10
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,5 us,  2,8 sy, 48,7 ni, 31,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    435,5 free,   2837,3 used,   4540,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3954,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1402168 529420  23544 S 438,0   6,6  21:10.42 cartogr+
+
+top - 21:28:01 up  5:47,  1 user,  load average: 5,58, 3,89, 2,11
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,7 us,  3,0 sy, 48,2 ni, 32,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    504,8 free,   2768,4 used,   4539,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4024,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 S 430,3   5,7  21:23.33 cartogr+
+
+top - 21:28:04 up  5:47,  1 user,  load average: 5,58, 3,89, 2,11
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,7 us,  2,8 sy, 15,9 ni, 67,1 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    510,5 free,   2772,6 used,   4529,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4030,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 S 159,8   5,7  21:28.14 cartogr+
+
+top - 21:28:07 up  5:47,  1 user,  load average: 5,62, 3,93, 2,14
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,4 us,  3,1 sy, 31,0 ni, 52,1 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    510,1 free,   2773,5 used,   4529,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4029,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 S 280,7   5,7  21:36.56 cartogr+
+
+top - 21:28:10 up  5:47,  1 user,  load average: 5,62, 3,93, 2,14
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,5 us,  2,7 sy,  9,5 ni, 74,7 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    507,6 free,   2776,9 used,   4528,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4027,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 R 104,0   5,7  21:39.69 cartogr+
+
+top - 21:28:13 up  5:47,  1 user,  load average: 5,41, 3,91, 2,14
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,8 us,  3,0 sy, 27,5 ni, 55,3 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    506,7 free,   2776,3 used,   4529,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4026,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 R 253,0   5,7  21:47.28 cartogr+
+
+top - 21:28:16 up  5:47,  1 user,  load average: 5,06, 3,86, 2,13
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,5 us,  2,4 sy,  8,2 ni, 76,4 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    509,3 free,   2774,7 used,   4528,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4029,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 R  96,0   5,7  21:50.16 cartogr+
+
+top - 21:28:19 up  5:47,  1 user,  load average: 5,06, 3,86, 2,13
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,9 us,  2,9 sy, 19,3 ni, 64,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    511,3 free,   2771,1 used,   4530,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4031,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 S 182,0   5,7  21:55.62 cartogr+
+
+top - 21:28:22 up  5:47,  1 user,  load average: 4,81, 3,83, 2,13
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,1 us,  3,2 sy,  4,2 ni, 79,9 id,  0,0 wa,  0,0 hi,  0,6 si,  0,0 st
+MiB Mem :   7812,9 total,    512,8 free,   2769,2 used,   4530,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4033,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 S  62,1   5,7  21:57.49 cartogr+
+
+top - 21:28:25 up  5:47,  1 user,  load average: 4,81, 3,83, 2,13
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,2 us,  3,0 sy, 17,4 ni, 65,1 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    514,0 free,   2768,1 used,   4530,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4034,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 R 175,0   5,7  22:02.74 cartogr+
+
+top - 21:28:28 up  5:47,  1 user,  load average: 4,50, 3,79, 2,13
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,2 us,  3,0 sy,  3,2 ni, 81,2 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    518,5 free,   2765,8 used,   4528,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4039,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1330448 457636  23544 S  56,0   5,7  22:04.42 cartogr+
+
+top - 21:28:31 up  5:47,  1 user,  load average: 4,30, 3,76, 2,13
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,7 us,  2,8 sy, 19,9 ni, 62,2 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    503,7 free,   2776,8 used,   4532,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4024,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1344200 471364  23544 S 199,7   5,9  22:10.41 cartogr+
+
+top - 21:28:34 up  5:47,  1 user,  load average: 4,30, 3,76, 2,13
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,9 us,  2,7 sy, 17,8 ni, 65,1 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    504,8 free,   2775,6 used,   4532,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4025,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1344200 471364  23544 R 181,4   5,9  22:15.87 cartogr+
+
+top - 21:28:37 up  5:47,  1 user,  load average: 4,28, 3,76, 2,14
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,1 us,  3,1 sy,  6,4 ni, 76,7 id,  0,0 wa,  0,0 hi,  0,7 si,  0,0 st
+MiB Mem :   7812,9 total,    490,9 free,   2777,9 used,   4544,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4011,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1344200 471364  23544 S  89,0   5,9  22:18.54 cartogr+
+
+top - 21:28:40 up  5:47,  1 user,  load average: 4,28, 3,76, 2,14
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,3 us,  3,1 sy, 13,0 ni, 70,1 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    490,5 free,   2782,6 used,   4539,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4011,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1344200 471364  23544 S 142,7   5,9  22:22.82 cartogr+
+
+top - 21:28:43 up  5:47,  1 user,  load average: 4,18, 3,75, 2,14
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,2 us,  2,7 sy,  2,0 ni, 81,7 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    490,5 free,   2777,5 used,   4544,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4011,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1344200 471364  23544 S  53,0   5,9  22:24.41 cartogr+
+
+top - 21:28:46 up  5:48,  1 user,  load average: 4,32, 3,79, 2,16
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,6 us,  3,2 sy, 41,5 ni, 39,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    384,9 free,   2883,4 used,   4544,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3906,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1450580 580116  23544 S 383,4   7,3  22:35.95 cartogr+
+
+top - 21:28:49 up  5:48,  1 user,  load average: 4,32, 3,79, 2,16
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,4 us,  3,4 sy, 29,4 ni, 50,4 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    407,3 free,   2862,5 used,   4543,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3928,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1421828 551340  23544 R 294,7   6,9  22:44.79 cartogr+
+
+top - 21:28:52 up  5:48,  1 user,  load average: 4,22, 3,77, 2,17
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,8 us,  3,7 sy, 33,3 ni, 46,6 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    246,1 free,   3025,9 used,   4541,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3767,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1579752 714972  23544 R 327,0   8,9  22:54.60 cartogr+
+
+top - 21:28:55 up  5:48,  1 user,  load average: 4,22, 3,77, 2,17
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,4 us,  4,0 sy, 48,3 ni, 30,9 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    286,6 free,   2980,9 used,   4545,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3807,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1535200 670396  23544 R 446,8   8,4  23:08.05 cartogr+
+
+top - 21:28:58 up  5:48,  1 user,  load average: 4,36, 3,81, 2,19
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,4 us,  4,0 sy, 38,3 ni, 40,9 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    240,1 free,   3028,0 used,   4544,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3761,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1587588 722664  23544 S 363,3   9,0  23:18.95 cartogr+
+
+top - 21:29:01 up  5:48,  1 user,  load average: 4,49, 3,85, 2,21
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,3 us,  3,4 sy, 32,9 ni, 48,0 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    256,8 free,   3009,4 used,   4546,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3778,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1568080 702776  23544 S 314,7   8,8  23:28.39 cartogr+
+
+top - 21:29:04 up  5:48,  1 user,  load average: 4,49, 3,85, 2,21
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,3 us,  3,5 sy, 44,4 ni, 35,4 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    382,9 free,   2883,0 used,   4547,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3904,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1440604 576068  23544 S 410,3   7,2  23:40.74 cartogr+
+
+top - 21:29:07 up  5:48,  1 user,  load average: 4,45, 3,85, 2,22
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,7 us,  3,0 sy, 29,7 ni, 52,2 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    434,6 free,   2836,2 used,   4542,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3956,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1381820 520100  23544 R 280,3   6,5  23:49.15 cartogr+
+
+top - 21:29:10 up  5:48,  1 user,  load average: 4,45, 3,85, 2,22
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,1 us,  4,0 sy, 39,8 ni, 40,6 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    224,2 free,   3044,3 used,   4544,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3746,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1608448 746072  23544 R 368,4   9,3  24:00.24 cartogr+
+
+top - 21:29:13 up  5:48,  1 user,  load average: 4,58, 3,89, 2,24
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,9 us,  3,5 sy, 45,7 ni, 33,6 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    402,7 free,   2870,2 used,   4540,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3924,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1424488 562708  23544 R 423,3   7,0  24:12.94 cartogr+
+
+top - 21:29:16 up  5:48,  1 user,  load average: 4,45, 3,87, 2,24
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,3 us,  3,5 sy, 31,0 ni, 50,7 id,  0,0 wa,  0,0 hi,  0,6 si,  0,0 st
+MiB Mem :   7812,9 total,    315,5 free,   2953,3 used,   4544,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3837,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1511560 649556  23544 R 296,3   8,1  24:21.83 cartogr+
+
+top - 21:29:19 up  5:48,  1 user,  load average: 4,45, 3,87, 2,24
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,8 us,  3,5 sy, 48,5 ni, 30,8 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    347,1 free,   2924,0 used,   4541,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3869,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1476688 614712  23544 R 444,3   7,7  24:35.16 cartogr+
+
+top - 21:29:22 up  5:48,  1 user,  load average: 4,57, 3,91, 2,26
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,3 us,  3,6 sy, 32,5 ni, 47,9 id,  0,0 wa,  0,0 hi,  0,6 si,  0,0 st
+MiB Mem :   7812,9 total,    356,2 free,   2905,3 used,   4551,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3878,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1465112 603360  23544 S 311,3   7,5  24:44.50 cartogr+
+
+top - 21:29:25 up  5:48,  1 user,  load average: 4,57, 3,91, 2,26
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,4 us,  3,7 sy, 32,6 ni, 46,6 id,  0,0 wa,  0,0 hi,  0,6 si,  0,0 st
+MiB Mem :   7812,9 total,    326,9 free,   2920,0 used,   4566,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3849,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1482488 620652  23544 S 320,3   7,8  24:54.14 cartogr+
+
+top - 21:29:28 up  5:48,  1 user,  load average: 4,93, 3,99, 2,30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,8 us,  3,7 sy, 44,3 ni, 34,9 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    424,5 free,   2830,2 used,   4558,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3946,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1381820 520372  23544 R 416,3   6,5  25:06.63 cartogr+
+
+top - 21:29:31 up  5:48,  1 user,  load average: 5,01, 4,02, 2,32
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,2 us,  3,1 sy, 37,8 ni, 42,3 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    342,2 free,   2912,6 used,   4558,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3864,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1468052 606160  23544 R 357,3   7,6  25:17.35 cartogr+
+
+top - 21:29:34 up  5:48,  1 user,  load average: 5,01, 4,02, 2,32
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  3,5 sy, 45,1 ni, 34,4 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    394,6 free,   2860,4 used,   4557,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3917,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406340 544892  23544 S 420,6   6,8  25:30.01 cartogr+
+
+top - 21:29:37 up  5:48,  1 user,  load average: 5,09, 4,06, 2,34
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,9 us,  3,8 sy, 35,9 ni, 42,9 id,  0,0 wa,  0,0 hi,  0,6 si,  0,0 st
+MiB Mem :   7812,9 total,    311,8 free,   2946,6 used,   4554,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3834,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1498884 637564  23544 R 349,0   8,0  25:40.48 cartogr+
+
+top - 21:29:40 up  5:48,  1 user,  load average: 5,09, 4,06, 2,34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,0 us,  3,6 sy, 46,9 ni, 32,1 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    416,9 free,   2843,3 used,   4552,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3939,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1383716 522920  23544 S 434,3   6,5  25:53.51 cartogr+
+
+top - 21:29:43 up  5:48,  1 user,  load average: 5,09, 4,07, 2,35
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,6 us,  3,6 sy, 39,3 ni, 41,2 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    267,9 free,   2995,5 used,   4549,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3790,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1543044 681836  23544 R 367,1   8,5  26:04.56 cartogr+
+
+top - 21:29:46 up  5:49,  1 user,  load average: 5,24, 4,12, 2,38
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  3,5 sy, 40,2 ni, 39,4 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    414,7 free,   2844,3 used,   4553,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3937,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1417696 523932  23544 R 378,3   6,5  26:15.91 cartogr+
+
+top - 21:29:49 up  5:49,  1 user,  load average: 5,24, 4,12, 2,38
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  4,1 sy, 36,9 ni, 43,8 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    247,5 free,   3002,2 used,   4563,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3770,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1553848 692692  23544 R 345,8   8,7  26:26.32 cartogr+
+
+top - 21:29:52 up  5:49,  1 user,  load average: 5,46, 4,19, 2,41
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,9 us,  3,7 sy, 43,7 ni, 35,2 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    323,2 free,   2929,2 used,   4560,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3846,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1485160 594712  23544 R 409,3   7,4  26:38.60 cartogr+
+
+top - 21:29:55 up  5:49,  1 user,  load average: 5,46, 4,19, 2,41
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,5 us,  4,0 sy, 31,1 ni, 49,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    271,5 free,   2982,7 used,   4558,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3794,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1535940 674744  23544 S 306,3   8,4  26:47.79 cartogr+
+
+top - 21:29:58 up  5:49,  1 user,  load average: 5,34, 4,18, 2,42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,1 us,  3,5 sy, 28,7 ni, 53,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    371,7 free,   2886,4 used,   4554,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3894,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1435992 574956  23544 S 275,1   7,2  26:56.07 cartogr+
+
+top - 21:30:01 up  5:49,  1 user,  load average: 5,40, 4,21, 2,44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,9 us,  4,8 sy, 45,7 ni, 32,2 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    244,9 free,   3008,0 used,   4560,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3728,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1571696 700876  23544 S 432,0   8,8  27:09.03 cartogr+
+
+top - 21:30:04 up  5:49,  1 user,  load average: 5,40, 4,21, 2,44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,5 us,  4,1 sy, 43,4 ni, 35,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    406,2 free,   2849,6 used,   4557,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3890,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1384804 524008  23544 S 404,7   6,5  27:21.17 cartogr+
+
+top - 21:30:07 up  5:49,  1 user,  load average: 5,36, 4,23, 2,45
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  3,8 sy, 36,7 ni, 44,3 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    181,8 free,   3071,6 used,   4559,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3665,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1613420 752152  23544 R 341,9   9,4  27:31.46 cartogr+
+
+top - 21:30:10 up  5:49,  1 user,  load average: 5,36, 4,23, 2,45
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,2 us,  3,7 sy, 40,0 ni, 40,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    345,8 free,   2917,3 used,   4549,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3829,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1456380 595608  23544 R 371,3   7,4  27:42.60 cartogr+
+
+top - 21:30:13 up  5:49,  1 user,  load average: 5,50, 4,27, 2,48
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,8 us,  4,3 sy, 45,0 ni, 34,5 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    366,6 free,   2941,4 used,   4504,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3862,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1487728 626756  23544 R 417,0   7,8  27:55.11 cartogr+
+
+top - 21:30:16 up  5:49,  1 user,  load average: 5,45, 4,29, 2,49
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,1 us,  4,2 sy, 31,3 ni, 50,0 id,  0,0 wa,  0,0 hi,  0,5 si,  0,0 st
+MiB Mem :   7812,9 total,    327,2 free,   2985,3 used,   4500,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3823,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1540544 679552  23544 R 301,3   8,5  28:04.18 cartogr+
+
+top - 21:30:19 up  5:49,  1 user,  load average: 5,45, 4,29, 2,49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,5 us,  2,5 sy, 43,1 ni, 40,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    427,8 free,   2885,2 used,   4499,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3923,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1423376 563396  23544 S 385,7   7,0  28:15.75 cartogr+
+
+top - 21:30:22 up  5:49,  1 user,  load average: 5,50, 4,31, 2,51
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,6 us,  4,3 sy, 47,7 ni, 32,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    404,6 free,   2900,3 used,   4508,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3900,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1448880 588980  23544 S 437,7   7,4  28:28.88 cartogr+
+
+top - 21:30:25 up  5:49,  1 user,  load average: 5,50, 4,31, 2,51
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,0 us,  3,6 sy, 34,3 ni, 46,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    368,6 free,   2945,3 used,   4499,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3864,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1491472 631444  23544 R 327,0   7,9  28:38.69 cartogr+
+
+top - 21:30:29 up  5:49,  1 user,  load average: 5,46, 4,33, 2,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,6 us,  2,9 sy, 40,0 ni, 42,2 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    354,5 free,   2957,7 used,   4500,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3850,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1500180 640120  23544 S 364,1   8,0  28:49.65 cartogr+
+
+top - 21:30:32 up  5:49,  1 user,  load average: 5,58, 4,37, 2,55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  4,2 sy, 45,0 ni, 33,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    446,3 free,   2865,3 used,   4501,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3942,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1403976 544268  23544 S 422,3   6,8  29:02.32 cartogr+
+
+top - 21:30:35 up  5:49,  1 user,  load average: 5,58, 4,37, 2,55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  2,7 sy, 36,6 ni, 45,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    456,5 free,   2856,4 used,   4500,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3952,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1403976 544268  23544 S 337,7   6,8  29:12.45 cartogr+
+
+top - 21:30:38 up  5:49,  1 user,  load average: 5,78, 4,43, 2,58
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,1 us,  4,3 sy, 46,9 ni, 34,4 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    396,7 free,   2914,7 used,   4501,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3893,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1462336 602528  23544 S 428,0   7,5  29:25.29 cartogr+
+
+top - 21:30:41 up  5:49,  1 user,  load average: 5,78, 4,43, 2,58
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,1 us,  3,3 sy, 31,1 ni, 53,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    322,1 free,   2991,6 used,   4499,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3818,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1542188 681988  23544 S 287,0   8,5  29:33.93 cartogr+
+
+top - 21:30:44 up  5:49,  1 user,  load average: 5,63, 4,42, 2,59
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,2 us,  2,5 sy, 30,4 ni, 53,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    337,0 free,   2974,2 used,   4501,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3833,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1519468 659548  23544 R 281,7   8,2  29:42.38 cartogr+
+
+top - 21:30:47 up  5:50,  1 user,  load average: 5,82, 4,48, 2,62
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,9 us,  3,2 sy, 47,9 ni, 33,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    389,7 free,   2923,8 used,   4499,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3886,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1468364 608600  23544 R 430,3   7,6  29:55.29 cartogr+
+
+top - 21:30:50 up  5:50,  1 user,  load average: 5,82, 4,48, 2,62
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,1 us,  3,2 sy, 25,7 ni, 57,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    414,1 free,   2899,4 used,   4499,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3911,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1438368 578504  23544 S 247,3   7,2  30:02.71 cartogr+
+
+top - 21:30:53 up  5:50,  1 user,  load average: 6,08, 4,56, 2,65
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,7 us,  4,0 sy, 45,2 ni, 33,5 id,  0,6 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    264,1 free,   3051,7 used,   4497,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3760,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1604556 744412  23544 S 415,3   9,3  30:15.21 cartogr+
+
+top - 21:30:56 up  5:50,  1 user,  load average: 6,08, 4,56, 2,65
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,5 us,  3,2 sy, 49,0 ni, 32,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    376,4 free,   2963,8 used,   4472,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3837,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1517728 657560  23544 S 448,7   8,2  30:28.67 cartogr+
+
+top - 21:30:59 up  5:50,  1 user,  load average: 5,75, 4,52, 2,65
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,9 us,  2,4 sy, 28,1 ni, 55,2 id,  0,0 wa,  0,0 hi,  0,4 si,  0,0 st
+MiB Mem :   7812,9 total,    517,1 free,   2823,2 used,   4472,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3978,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1378760 519060  23544 S 267,0   6,5  30:36.68 cartogr+
+
+top - 21:31:02 up  5:50,  1 user,  load average: 5,69, 4,52, 2,66
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,4 us,  3,3 sy, 35,2 ni, 46,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    455,2 free,   2886,2 used,   4471,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3916,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1439836 580104  23544 S 330,9   7,3  30:46.64 cartogr+
+
+top - 21:31:05 up  5:50,  1 user,  load average: 5,69, 4,52, 2,66
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  2,8 sy, 48,5 ni, 33,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    364,0 free,   2968,1 used,   4480,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3825,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1522304 662464  23544 R 435,7   8,3  30:59.71 cartogr+
+
+top - 21:31:08 up  5:50,  1 user,  load average: 5,80, 4,57, 2,68
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,9 us,  3,1 sy, 33,6 ni, 48,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    434,4 free,   2902,6 used,   4475,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3895,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1454208 594360  23544 S 317,7   7,4  31:09.24 cartogr+
+
+top - 21:31:11 up  5:50,  1 user,  load average: 5,80, 4,57, 2,68
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,9 us,  2,9 sy, 37,1 ni, 44,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    421,0 free,   2917,5 used,   4474,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3882,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1462804 603068  23544 S 348,0   7,5  31:19.68 cartogr+
+
+top - 21:31:14 up  5:50,  1 user,  load average: 5,81, 4,59, 2,70
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18,4 us,  3,0 sy, 48,1 ni, 30,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    393,6 free,   2937,4 used,   4481,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3855,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1484908 624868  23544 R 445,2   7,8  31:33.08 cartogr+
+
+top - 21:31:17 up  5:50,  1 user,  load average: 5,75, 4,60, 2,71
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,7 us,  2,9 sy, 31,9 ni, 49,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    471,9 free,   2851,9 used,   4489,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3933,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1391788 530936  23544 S 312,0   6,6  31:42.44 cartogr+
+
+top - 21:31:20 up  5:50,  1 user,  load average: 5,75, 4,60, 2,71
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  3,1 sy, 41,5 ni, 38,7 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    327,9 free,   3005,6 used,   4479,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3789,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1566132 705956  23544 S 391,0   8,8  31:54.17 cartogr+
+
+top - 21:31:23 up  5:50,  1 user,  load average: 5,85, 4,64, 2,74
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,4 us,  3,4 sy, 41,8 ni, 37,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    387,4 free,   2941,9 used,   4483,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3849,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1485760 625592  23544 S 393,7   7,8  32:06.02 cartogr+
+
+top - 21:31:26 up  5:50,  1 user,  load average: 5,85, 4,64, 2,74
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,4 us,  2,3 sy, 36,2 ni, 46,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    462,8 free,   2862,8 used,   4487,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3924,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406884 547192  23544 R 335,3   6,8  32:16.08 cartogr+
+
+top - 21:31:29 up  5:50,  1 user,  load average: 5,94, 4,68, 2,76
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,1 us,  2,8 sy, 41,9 ni, 38,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    458,4 free,   2871,4 used,   4483,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3920,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1416320 556628  23544 S 395,0   7,0  32:27.93 cartogr+
+
+top - 21:31:32 up  5:50,  1 user,  load average: 5,86, 4,68, 2,77
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,1 us,  2,4 sy, 43,1 ni, 38,4 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    454,9 free,   2871,6 used,   4486,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3917,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1416320 556628  23544 R 391,7   7,0  32:39.68 cartogr+
+
+top - 21:31:35 up  5:50,  1 user,  load average: 5,86, 4,68, 2,77
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,6 us,  2,8 sy, 42,7 ni, 37,8 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    455,0 free,   2859,2 used,   4498,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3917,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406012 546412  23544 S 390,0   6,8  32:51.42 cartogr+
+
+top - 21:31:38 up  5:50,  1 user,  load average: 5,88, 4,70, 2,79
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,5 us,  2,8 sy, 44,5 ni, 36,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    324,8 free,   3007,9 used,   4480,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3787,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1559104 698992  23544 S 412,7   8,7  33:03.80 cartogr+
+
+top - 21:31:41 up  5:50,  1 user,  load average: 5,88, 4,70, 2,79
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,0 us,  1,8 sy, 38,6 ni, 44,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    461,6 free,   2863,8 used,   4487,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3923,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406012 546412  23544 R 354,0   6,8  33:14.42 cartogr+
+
+top - 21:31:44 up  5:50,  1 user,  load average: 5,81, 4,71, 2,80
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,9 us,  2,3 sy, 46,2 ni, 36,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    323,2 free,   3000,1 used,   4489,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3785,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1550252 690280  23544 S 415,3   8,6  33:26.88 cartogr+
+
+top - 21:31:47 up  5:51,  1 user,  load average: 5,74, 4,71, 2,81
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,6 us,  2,9 sy, 40,5 ni, 42,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    460,1 free,   2869,5 used,   4483,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3922,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406012 546412  23544 R 367,8   6,8  33:37.95 cartogr+
+
+top - 21:31:50 up  5:51,  1 user,  load average: 5,74, 4,71, 2,81
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  2,1 sy, 37,3 ni, 45,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    457,2 free,   2869,1 used,   4486,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3919,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406012 546412  23544 S 333,7   6,8  33:47.96 cartogr+
+
+top - 21:31:53 up  5:51,  1 user,  load average: 6,08, 4,80, 2,85
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18,7 us,  2,8 sy, 46,6 ni, 31,5 id,  0,1 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    458,0 free,   2869,7 used,   4485,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3920,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406012 546412  23544 S 418,6   6,8  34:00.56 cartogr+
+
+top - 21:31:56 up  5:51,  1 user,  load average: 6,08, 4,80, 2,85
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,0 us,  2,6 sy, 39,4 ni, 41,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    455,8 free,   2870,9 used,   4486,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3918,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406012 546412  23544 S 353,0   6,8  34:11.15 cartogr+
+
+top - 21:31:59 up  5:51,  1 user,  load average: 6,24, 4,86, 2,88
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,5 us,  2,5 sy, 47,7 ni, 32,0 id,  0,2 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    456,5 free,   2867,7 used,   4488,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3919,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1406012 546528  23544 S 422,3   6,8  34:23.82 cartogr+
+
+top - 21:32:02 up  5:51,  1 user,  load average: 6,14, 4,86, 2,89
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,1 us,  2,5 sy, 41,3 ni, 41,8 id,  0,2 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    428,8 free,   2900,4 used,   4483,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3891,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1453588 572920  23544 S 359,5   7,2  34:34.64 cartogr+
+
+top - 21:32:05 up  5:51,  1 user,  load average: 6,14, 4,86, 2,89
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,1 us,  2,3 sy, 45,0 ni, 37,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    460,6 free,   2864,3 used,   4488,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3923,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1401604 542120  23544 S 395,3   6,8  34:46.50 cartogr+
+
+top - 21:32:08 up  5:51,  1 user,  load average: 5,80, 4,81, 2,89
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,5 us,  1,8 sy, 41,9 ni, 40,6 id,  0,1 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    455,8 free,   2871,9 used,   4485,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3919,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1401604 542120  23544 S 366,0   6,8  34:57.48 cartogr+
+
+top - 21:32:11 up  5:51,  1 user,  load average: 5,80, 4,81, 2,89
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,4 us,  2,3 sy, 38,7 ni, 45,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    453,1 free,   2873,2 used,   4486,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3916,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1375348 549204  23544 S 337,9   6,9  35:07.65 cartogr+
+
+top - 21:32:14 up  5:51,  1 user,  load average: 5,82, 4,83, 2,90
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,0 us,  2,1 sy, 44,4 ni, 39,2 id,  0,3 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    317,8 free,   3006,2 used,   4488,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3781,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1511008 684852  23544 S 384,7   8,6  35:19.19 cartogr+
+
+top - 21:32:17 up  5:51,  1 user,  load average: 5,84, 4,85, 2,92
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,4 us,  2,3 sy, 40,2 ni, 44,8 id,  0,1 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    336,0 free,   2993,4 used,   4483,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3799,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1499308 672968  23544 S 355,7   8,4  35:29.86 cartogr+
+
+top - 21:32:20 up  5:51,  1 user,  load average: 5,84, 4,85, 2,92
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,9 us,  1,8 sy, 42,6 ni, 42,5 id,  0,1 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    363,2 free,   2966,7 used,   4483,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3826,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1462768 636808  23544 S 372,3   8,0  35:41.03 cartogr+
+
+top - 21:32:23 up  5:51,  1 user,  load average: 5,77, 4,85, 2,93
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,1 us,  2,2 sy, 44,4 ni, 40,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    455,5 free,   2855,8 used,   4501,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3919,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1341044 515248  23544 S 380,1   6,4  35:52.47 cartogr+
+
+top - 21:32:26 up  5:51,  1 user,  load average: 5,77, 4,85, 2,93
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,8 us,  1,5 sy, 42,8 ni, 41,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    431,4 free,   2889,7 used,   4491,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3895,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1377332 551408  23544 S 383,0   6,9  36:03.96 cartogr+
+
+top - 21:32:29 up  5:51,  1 user,  load average: 5,63, 4,84, 2,94
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,8 us,  2,1 sy, 40,2 ni, 44,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    455,2 free,   2861,3 used,   4496,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3919,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1352568 526356  23544 R 363,0   6,6  36:14.85 cartogr+
+
+top - 21:32:32 up  5:51,  1 user,  load average: 5,34, 4,79, 2,93
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,6 us,  2,0 sy, 33,3 ni, 51,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    380,0 free,   2930,8 used,   4502,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3843,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1424152 598044  23544 S 307,6   7,5  36:24.11 cartogr+
+
+top - 21:32:35 up  5:51,  1 user,  load average: 5,34, 4,79, 2,93
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,8 us,  1,9 sy, 44,2 ni, 40,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    441,3 free,   2875,0 used,   4496,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3905,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1365028 539232  23544 S 392,0   6,7  36:35.87 cartogr+
+
+top - 21:32:38 up  5:51,  1 user,  load average: 5,31, 4,79, 2,94
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,4 us,  2,2 sy, 36,7 ni, 48,3 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    327,2 free,   2988,6 used,   4497,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3791,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1495644 669432  23544 S 332,9   8,4  36:45.89 cartogr+
+
+top - 21:32:41 up  5:51,  1 user,  load average: 5,31, 4,79, 2,94
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,3 us,  1,8 sy, 50,6 ni, 34,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    375,9 free,   2945,8 used,   4491,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3840,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1453496 627224  23544 R 444,0   7,8  36:59.21 cartogr+
+
+top - 21:32:44 up  5:51,  1 user,  load average: 5,20, 4,78, 2,95
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,7 us,  1,9 sy, 36,4 ni, 48,7 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    445,4 free,   2877,9 used,   4489,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3909,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1382572 556476  23544 R 333,7   7,0  37:09.22 cartogr+
+
+top - 21:32:47 up  5:52,  1 user,  load average: 5,35, 4,82, 2,97
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,2 us,  2,1 sy, 48,3 ni, 35,2 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    342,2 free,   2981,6 used,   4489,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3806,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1499296 673156  23544 S 428,9   8,4  37:22.13 cartogr+
+
+top - 21:32:50 up  5:52,  1 user,  load average: 5,35, 4,82, 2,97
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,9 us,  2,0 sy, 36,2 ni, 48,8 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    482,2 free,   2841,2 used,   4489,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3946,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1346304 520616  23544 S 332,3   6,5  37:32.10 cartogr+
+
+top - 21:32:53 up  5:52,  1 user,  load average: 5,00, 4,75, 2,96
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,0 us,  2,4 sy, 38,4 ni, 47,1 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    290,0 free,   3030,0 used,   4492,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3754,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1541668 715660  23544 S 349,0   8,9  37:42.57 cartogr+
+
+top - 21:32:56 up  5:52,  1 user,  load average: 5,00, 4,75, 2,96
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,1 us,  3,4 sy, 49,9 ni, 29,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    312,7 free,   3003,8 used,   4496,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3777,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1522424 696332  23544 S 454,3   8,7  37:56.20 cartogr+
+
+top - 21:32:59 up  5:52,  1 user,  load average: 5,08, 4,78, 2,98
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,0 us,  2,1 sy, 34,1 ni, 51,5 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    477,4 free,   2844,1 used,   4491,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3942,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1349512 523796  23544 S 310,0   6,5  38:05.53 cartogr+
+
+top - 21:33:02 up  5:52,  1 user,  load average: 5,23, 4,81, 3,00
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,5 us,  1,8 sy, 37,0 ni, 48,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    403,6 free,   2916,6 used,   4492,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3868,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1431120 605076  23544 R 335,7   7,6  38:15.60 cartogr+
+
+top - 21:33:05 up  5:52,  1 user,  load average: 5,23, 4,81, 3,00
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,2 us,  1,7 sy, 40,6 ni, 45,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    420,1 free,   2904,6 used,   4488,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3884,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1398768 572820  23544 S 358,3   7,2  38:26.35 cartogr+
+
+top - 21:33:08 up  5:52,  1 user,  load average: 5,21, 4,82, 3,01
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,6 us,  2,1 sy, 36,7 ni, 49,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    389,4 free,   2935,3 used,   4488,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3854,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1451696 625516  23544 S 329,0   7,8  38:36.22 cartogr+
+
+top - 21:33:11 up  5:52,  1 user,  load average: 5,21, 4,82, 3,01
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,5 us,  2,5 sy, 50,0 ni, 32,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    360,6 free,   2963,4 used,   4488,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3825,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1474892 649196  23544 S 449,2   8,1  38:49.74 cartogr+
+
+top - 21:33:14 up  5:52,  1 user,  load average: 5,28, 4,84, 3,03
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,1 us,  2,1 sy, 33,9 ni, 51,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    416,8 free,   2898,2 used,   4497,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3881,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1386780 561028  23544 R 309,7   7,0  38:59.03 cartogr+
+
+top - 21:33:17 up  5:52,  1 user,  load average: 5,58, 4,91, 3,06
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,0 us,  2,2 sy, 41,1 ni, 44,5 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    403,4 free,   2918,2 used,   4491,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3868,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1410436 584788  23544 R 365,7   7,3  39:10.00 cartogr+
+
+top - 21:33:20 up  5:52,  1 user,  load average: 5,58, 4,91, 3,06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,1 us,  2,2 sy, 45,4 ni, 39,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    402,4 free,   2919,7 used,   4490,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3867,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1417100 591384  23544 S 401,0   7,4  39:22.07 cartogr+
+
+top - 21:33:23 up  5:52,  1 user,  load average: 5,37, 4,87, 3,06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,8 us,  2,0 sy, 34,8 ni, 51,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    356,7 free,   2962,1 used,   4494,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3822,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1466232 640220  23544 S 313,0   8,0  39:31.46 cartogr+
+
+top - 21:33:26 up  5:52,  1 user,  load average: 5,37, 4,87, 3,06
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 15,6 us,  1,7 sy, 48,6 ni, 33,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    337,8 free,   2977,2 used,   4497,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3803,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1469164 643496  23544 S 442,0   8,0  39:44.72 cartogr+
+
+top - 21:33:29 up  5:52,  1 user,  load average: 5,34, 4,88, 3,07
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,8 us,  1,4 sy, 37,5 ni, 47,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    442,3 free,   2877,2 used,   4493,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3907,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1397476 537900  23544 R 338,5   6,7  39:54.91 cartogr+
+
+top - 21:33:32 up  5:52,  1 user,  load average: 5,63, 4,95, 3,10
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,2 us,  2,2 sy, 39,4 ni, 44,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    364,8 free,   2956,0 used,   4492,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3830,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1456344 630824  23544 S 357,0   7,9  40:05.62 cartogr+
+
+top - 21:33:35 up  5:52,  1 user,  load average: 5,63, 4,95, 3,10
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,5 us,  2,2 sy, 46,6 ni, 36,5 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    403,1 free,   2917,0 used,   4492,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3868,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1412980 587268  23544 S 412,3   7,3  40:17.99 cartogr+
+
+top - 21:33:38 up  5:52,  1 user,  load average: 5,42, 4,91, 3,10
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,0 us,  2,0 sy, 31,9 ni, 52,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    461,4 free,   2860,4 used,   4491,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3927,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1362876 537376  23544 S 295,7   6,7  40:26.89 cartogr+
+
+top - 21:33:41 up  5:52,  1 user,  load average: 5,42, 4,91, 3,10
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,1 us,  2,0 sy, 48,0 ni, 33,8 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    353,8 free,   2962,0 used,   4497,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3819,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1470152 644288  23544 R 429,0   8,1  40:39.76 cartogr+
+
+top - 21:33:44 up  5:52,  1 user,  load average: 5,55, 4,95, 3,12
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,2 us,  2,3 sy, 35,5 ni, 44,7 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    400,6 free,   2910,4 used,   4501,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3866,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1400516 574860  23544 S 330,7   7,2  40:49.68 cartogr+
+
+top - 21:33:47 up  5:53,  1 user,  load average: 5,58, 4,96, 3,14
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 20,3 us,  2,9 sy, 39,4 ni, 37,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    328,2 free,   2953,4 used,   4531,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3794,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1485828 603632  23544 R 360,7   7,5  41:00.50 cartogr+
+
+top - 21:33:50 up  5:53,  1 user,  load average: 5,58, 4,96, 3,14
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 18,6 us,  3,0 sy, 43,9 ni, 34,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    337,7 free,   2902,6 used,   4572,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3804,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 R 403,7   6,9  41:12.65 cartogr+
+
+top - 21:33:53 up  5:53,  1 user,  load average: 5,62, 4,98, 3,15
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  1,6 sy, 48,8 ni, 34,7 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    390,7 free,   2908,4 used,   4513,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3857,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 427,0   6,9  41:25.46 cartogr+
+
+top - 21:33:56 up  5:53,  1 user,  load average: 5,62, 4,98, 3,15
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,4 us,  1,4 sy, 48,3 ni, 37,8 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    392,2 free,   2906,9 used,   4513,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3858,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 R 423,0   6,9  41:38.15 cartogr+
+
+top - 21:33:59 up  5:53,  1 user,  load average: 5,49, 4,97, 3,16
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,4 us,  1,1 sy, 47,6 ni, 39,6 id,  0,0 wa,  0,0 hi,  0,3 si,  0,0 st
+MiB Mem :   7812,9 total,    390,7 free,   2911,8 used,   4510,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3857,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 R 410,0   6,9  41:50.45 cartogr+
+
+top - 21:34:02 up  5:53,  1 user,  load average: 5,37, 4,95, 3,16
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,9 us,  2,4 sy, 46,2 ni, 33,4 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    398,6 free,   2893,1 used,   4521,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3865,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 419,0   6,9  42:03.02 cartogr+
+
+top - 21:34:05 up  5:53,  1 user,  load average: 5,37, 4,95, 3,16
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,4 us,  2,2 sy, 46,9 ni, 33,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    397,3 free,   2899,3 used,   4516,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3864,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 418,9   6,9  42:15.63 cartogr+
+
+top - 21:34:08 up  5:53,  1 user,  load average: 5,90, 5,07, 3,21
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 17,7 us,  3,6 sy, 46,9 ni, 31,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    412,6 free,   2896,2 used,   4504,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3880,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 424,0   6,9  42:28.35 cartogr+
+
+top - 21:34:11 up  5:53,  1 user,  load average: 5,90, 5,07, 3,21
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 16,2 us,  3,8 sy, 46,5 ni, 33,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    409,7 free,   2894,9 used,   4508,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3877,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 420,0   6,9  42:40.95 cartogr+
+
+top - 21:34:14 up  5:53,  1 user,  load average: 5,83, 5,07, 3,22
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,0 us,  1,3 sy, 49,7 ni, 36,8 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    423,1 free,   2898,5 used,   4491,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3890,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 R 427,7   6,9  42:53.78 cartogr+
+
+top - 21:34:17 up  5:53,  1 user,  load average: 5,76, 5,06, 3,23
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,1 us,  1,5 sy, 49,4 ni, 36,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    425,4 free,   2896,6 used,   4490,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3893,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 422,3   6,9  43:06.49 cartogr+
+
+top - 21:34:20 up  5:53,  1 user,  load average: 5,76, 5,06, 3,23
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,4 us,  1,6 sy, 48,6 ni, 36,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    418,6 free,   2898,8 used,   4495,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3886,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 R 425,3   6,9  43:19.25 cartogr+
+
+top - 21:34:23 up  5:53,  1 user,  load average: 5,78, 5,08, 3,25
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,8 us,  1,7 sy, 48,4 ni, 36,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    417,0 free,   2902,0 used,   4493,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3885,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 R 422,3   6,9  43:31.92 cartogr+
+
+top - 21:34:26 up  5:53,  1 user,  load average: 5,78, 5,08, 3,25
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,4 us,  1,4 sy, 49,1 ni, 36,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    422,9 free,   2901,1 used,   4488,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3891,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 424,3   6,9  43:44.65 cartogr+
+
+top - 21:34:29 up  5:53,  1 user,  load average: 5,64, 5,06, 3,25
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,2 us,  1,7 sy, 48,1 ni, 37,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    426,0 free,   2897,2 used,   4489,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3894,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 R 418,3   6,9  43:57.24 cartogr+
+
+top - 21:34:32 up  5:53,  1 user,  load average: 5,59, 5,06, 3,26
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,9 us,  1,0 sy, 49,2 ni, 37,8 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    423,3 free,   2900,5 used,   4489,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3892,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 424,7   6,9  44:09.98 cartogr+
+
+top - 21:34:35 up  5:53,  1 user,  load average: 5,59, 5,06, 3,26
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,4 us,  1,2 sy, 49,5 ni, 37,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    422,8 free,   2902,5 used,   4487,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3891,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 428,0   6,9  44:22.82 cartogr+
+
+top - 21:34:38 up  5:53,  1 user,  load average: 5,54, 5,06, 3,27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,8 us,  1,5 sy, 48,1 ni, 37,4 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    425,3 free,   2899,4 used,   4488,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3894,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 417,3   6,9  44:35.34 cartogr+
+
+top - 21:34:41 up  5:53,  1 user,  load average: 5,54, 5,06, 3,27
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,0 us,  1,4 sy, 49,2 ni, 36,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    426,9 free,   2902,1 used,   4483,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3896,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 425,9   6,9  44:48.16 cartogr+
+
+top - 21:34:44 up  5:53,  1 user,  load average: 5,50, 5,06, 3,28
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,0 us,  1,4 sy, 49,2 ni, 37,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    426,6 free,   2903,1 used,   4483,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3896,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 423,3   6,9  45:00.86 cartogr+
+
+top - 21:34:47 up  5:54,  1 user,  load average: 5,54, 5,07, 3,29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,2 us,  1,4 sy, 47,9 ni, 37,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    429,9 free,   2899,6 used,   4483,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3899,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 419,0   6,9  45:13.43 cartogr+
+
+top - 21:34:50 up  5:54,  1 user,  load average: 5,54, 5,07, 3,29
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,3 us,  1,9 sy, 49,2 ni, 34,5 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    428,2 free,   2901,1 used,   4483,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3897,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 S 433,7   6,9  45:26.44 cartogr+
+
+top - 21:34:53 up  5:54,  1 user,  load average: 5,49, 5,07, 3,30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,0 us,  1,7 sy, 47,6 ni, 36,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    431,4 free,   2896,6 used,   4485,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3901,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1376912 551412  23544 R 420,9   6,9  45:39.11 cartogr+
+
+top - 21:34:56 up  5:54,  1 user,  load average: 5,49, 5,07, 3,30
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,2 us,  1,4 sy, 37,4 ni, 50,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    502,6 free,   2831,0 used,   4479,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3972,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1310360 484832  23544 R 332,7   6,1  45:49.09 cartogr+
+
+top - 21:34:59 up  5:54,  1 user,  load average: 5,37, 5,05, 3,31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,1 us,  2,0 sy, 40,9 ni, 45,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    387,5 free,   2945,1 used,   4480,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3857,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1433960 608328  23544 S 363,3   7,6  45:59.99 cartogr+
+
+top - 21:35:02 up  5:54,  1 user,  load average: 5,42, 5,07, 3,32
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,2 us,  1,5 sy, 40,3 ni, 45,8 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    483,7 free,   2850,1 used,   4479,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3953,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1326192 500888  23544 R 358,8   6,3  46:10.79 cartogr+
+
+top - 21:35:05 up  5:54,  1 user,  load average: 5,42, 5,07, 3,32
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,6 us,  1,8 sy, 46,2 ni, 39,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    402,9 free,   2930,3 used,   4479,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3873,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1420824 595172  23544 R 409,3   7,4  46:23.07 cartogr+
+
+top - 21:35:08 up  5:54,  1 user,  load average: 5,47, 5,09, 3,34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,0 us,  1,8 sy, 41,5 ni, 43,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    510,5 free,   2815,3 used,   4487,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3980,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1301352 475328  23544 S 372,7   5,9  46:34.25 cartogr+
+
+top - 21:35:11 up  5:54,  1 user,  load average: 5,47, 5,09, 3,34
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,9 us,  1,5 sy, 41,9 ni, 44,5 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    355,5 free,   2973,8 used,   4483,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3825,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1463212 637420  23544 R 370,4   8,0  46:45.40 cartogr+
+
+top - 21:35:14 up  5:54,  1 user,  load average: 5,43, 5,08, 3,35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,3 us,  1,7 sy, 48,5 ni, 37,4 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    473,7 free,   2856,3 used,   4482,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3944,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1344432 518892  23544 S 426,3   6,5  46:58.19 cartogr+
+
+top - 21:35:17 up  5:54,  1 user,  load average: 5,16, 5,03, 3,34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9,9 us,  1,7 sy, 32,3 ni, 55,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    476,3 free,   2861,8 used,   4474,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3947,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1344432 518892  23544 S 287,7   6,5  47:06.82 cartogr+
+
+top - 21:35:20 up  5:54,  1 user,  load average: 5,16, 5,03, 3,34
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10,9 us,  1,8 sy, 46,6 ni, 40,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    395,1 free,   2943,3 used,   4474,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3865,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1436864 610992  23544 S 402,3   7,6  47:18.93 cartogr+
+
+top - 21:35:23 up  5:54,  1 user,  load average: 4,98, 5,00, 3,34
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,1 us,  2,1 sy, 41,1 ni, 44,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    399,8 free,   2934,8 used,   4478,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3870,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1426280 600360  23544 R 370,3   7,5  47:30.04 cartogr+
+
+top - 21:35:26 up  5:54,  1 user,  load average: 4,98, 5,00, 3,34
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,8 us,  1,7 sy, 44,2 ni, 42,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    483,1 free,   2854,1 used,   4475,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3954,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1338252 512712  23544 R 387,3   6,4  47:41.66 cartogr+
+
+top - 21:35:29 up  5:54,  1 user,  load average: 5,07, 5,02, 3,35
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,4 us,  1,7 sy, 41,5 ni, 44,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    456,2 free,   2876,3 used,   4480,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3927,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1359720 533960  23544 R 368,1   6,7  47:52.74 cartogr+
+
+top - 21:35:32 up  5:54,  1 user,  load average: 5,06, 5,02, 3,36
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,7 us,  2,4 sy, 41,2 ni, 43,0 id,  0,4 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    407,5 free,   2919,9 used,   4485,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3885,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1397484 571424  23544 R 363,0   7,1  48:03.63 cartogr+
+
+top - 21:35:35 up  5:54,  1 user,  load average: 5,06, 5,02, 3,36
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,9 us,  1,7 sy, 47,9 ni, 38,4 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    437,6 free,   2890,1 used,   4485,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3915,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1370036 544488  23544 S 417,0   6,8  48:16.14 cartogr+
+
+top - 21:35:38 up  5:54,  1 user,  load average: 5,06, 5,02, 3,37
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,2 us,  1,4 sy, 41,7 ni, 45,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    450,0 free,   2877,2 used,   4485,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3928,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1369232 543660  23544 S 363,5   6,8  48:27.08 cartogr+
+
+top - 21:35:41 up  5:54,  1 user,  load average: 5,06, 5,02, 3,37
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,4 us,  1,9 sy, 38,6 ni, 48,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    476,0 free,   2849,7 used,   4487,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3954,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1331980 506440  23544 R 342,0   6,3  48:37.34 cartogr+
+
+top - 21:35:44 up  5:55,  1 user,  load average: 5,13, 5,03, 3,38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,2 us,  1,5 sy, 42,4 ni, 42,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    456,4 free,   2856,3 used,   4500,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3934,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1348724 522832  23544 S 379,3   6,5  48:48.72 cartogr+
+
+top - 21:35:47 up  5:55,  1 user,  load average: 4,80, 4,96, 3,37
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,8 us,  1,5 sy, 33,8 ni, 52,7 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    456,5 free,   2866,4 used,   4490,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3935,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1348724 523184  23544 R 304,7   6,5  48:57.89 cartogr+
+
+top - 21:35:50 up  5:55,  1 user,  load average: 4,80, 4,96, 3,37
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,1 us,  2,4 sy, 40,8 ni, 44,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    378,1 free,   2947,1 used,   4487,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3856,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1427716 601784  23544 R 364,3   7,5  49:08.82 cartogr+
+
+top - 21:35:53 up  5:55,  1 user,  load average: 4,90, 4,98, 3,38
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,1 us,  2,1 sy, 43,4 ni, 41,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    476,3 free,   2848,6 used,   4488,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3955,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1326616 500728  23544 R 387,4   6,3  49:20.48 cartogr+
+
+top - 21:35:56 up  5:55,  1 user,  load average: 4,90, 4,98, 3,38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,4 us,  1,8 sy, 41,0 ni, 44,7 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    422,7 free,   2900,4 used,   4489,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3901,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1388888 563400  23544 S 363,7   7,0  49:31.39 cartogr+
+
+top - 21:35:59 up  5:55,  1 user,  load average: 4,90, 4,98, 3,39
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,5 us,  1,6 sy, 37,3 ni, 48,5 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    412,8 free,   2909,9 used,   4490,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3891,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1403332 577672  23544 R 334,3   7,2  49:41.42 cartogr+
+
+top - 21:36:02 up  5:55,  1 user,  load average: 4,91, 4,98, 3,40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,1 us,  1,5 sy, 41,7 ni, 43,7 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    430,0 free,   2884,7 used,   4498,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3909,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1375556 550012  23544 S 368,8   6,9  49:52.52 cartogr+
+
+top - 21:36:05 up  5:55,  1 user,  load average: 4,91, 4,98, 3,40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,5 us,  1,6 sy, 42,1 ni, 43,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    429,6 free,   2886,5 used,   4496,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3908,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1382920 557380  23544 S 373,3   7,0  50:03.72 cartogr+
+
+top - 21:36:08 up  5:55,  1 user,  load average: 4,76, 4,95, 3,40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,6 us,  1,5 sy, 42,8 ni, 43,0 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    392,2 free,   2930,5 used,   4490,2 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3871,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1421860 596184  23544 S 375,7   7,5  50:15.03 cartogr+
+
+top - 21:36:11 up  5:55,  1 user,  load average: 4,76, 4,95, 3,40
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,1 us,  1,6 sy, 42,9 ni, 43,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    430,5 free,   2889,2 used,   4493,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3909,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1382920 557380  23544 S 375,3   7,0  50:26.29 cartogr+
+
+top - 21:36:14 up  5:55,  1 user,  load average: 5,10, 5,02, 3,43
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10,3 us,  1,5 sy, 38,9 ni, 49,1 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    315,0 free,   3003,4 used,   4494,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3794,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1504016 678016  23544 R 337,7   8,5  50:36.42 cartogr+
+
+top - 21:36:17 up  5:55,  1 user,  load average: 5,01, 5,00, 3,43
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,7 us,  1,8 sy, 45,8 ni, 40,4 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    424,7 free,   2890,7 used,   4497,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3904,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1382920 557380  23544 S 401,0   7,0  50:48.49 cartogr+
+
+top - 21:36:20 up  5:55,  1 user,  load average: 5,01, 5,00, 3,43
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12,6 us,  1,9 sy, 45,2 ni, 40,1 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    345,6 free,   2969,6 used,   4497,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3825,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1466264 640532  23544 S 397,3   8,0  51:00.41 cartogr+
+
+top - 21:36:23 up  5:55,  1 user,  load average: 5,41, 5,08, 3,47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,7 us,  1,6 sy, 34,4 ni, 52,2 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    362,7 free,   2955,8 used,   4494,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3842,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1448244 622584  23544 S 308,0   7,8  51:09.65 cartogr+
+
+top - 21:36:26 up  5:55,  1 user,  load average: 5,41, 5,08, 3,47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,2 us,  2,0 sy, 50,4 ni, 33,2 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    370,7 free,   2945,3 used,   4496,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3850,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1429656 604104  23544 S 440,2   7,6  51:22.90 cartogr+
+
+top - 21:36:29 up  5:55,  1 user,  load average: 5,30, 5,06, 3,47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,8 us,  1,4 sy, 42,2 ni, 44,3 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    368,5 free,   2948,8 used,   4495,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3848,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1420392 594600  23544 S 371,3   7,4  51:34.04 cartogr+
+
+top - 21:36:32 up  5:55,  1 user,  load average: 5,27, 5,06, 3,48
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,6 us,  2,0 sy, 39,8 ni, 46,5 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    272,8 free,   3045,7 used,   4494,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3752,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1526368 700456  23544 S 352,0   8,8  51:44.60 cartogr+
+
+top - 21:36:35 up  5:55,  1 user,  load average: 5,27, 5,06, 3,48
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,2 us,  2,0 sy, 46,9 ni, 37,8 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    365,9 free,   2948,3 used,   4498,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3846,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1418124 592488  23544 S 407,0   7,4  51:56.81 cartogr+
+
+top - 21:36:38 up  5:55,  1 user,  load average: 5,09, 5,03, 3,48
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11,6 us,  1,9 sy, 35,7 ni, 50,6 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    318,5 free,   3001,0 used,   4493,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3798,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1469960 643964  23544 S 318,7   8,0  52:06.37 cartogr+
+
+top - 21:36:41 up  5:55,  1 user,  load average: 5,09, 5,03, 3,48
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,8 us,  2,2 sy, 50,6 ni, 32,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    297,1 free,   3025,0 used,   4490,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3755,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1499716 673796  23544 S 446,5   8,4  52:19.81 cartogr+
+
+top - 21:36:44 up  5:56,  1 user,  load average: 5,08, 5,03, 3,49
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13,7 us,  1,5 sy, 38,8 ni, 45,9 id,  0,0 wa,  0,0 hi,  0,2 si,  0,0 st
+MiB Mem :   7812,9 total,    400,6 free,   2919,7 used,   4492,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3859,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1382920 557380  23544 R 349,0   7,0  52:30.28 cartogr+
+
+top - 21:36:47 up  5:56,  1 user,  load average: 5,16, 5,04, 3,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 14,1 us,  1,8 sy, 48,6 ni, 35,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    400,9 free,   2920,4 used,   4491,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3859,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1382920 557380  23544 S 433,0   7,0  52:43.27 cartogr+
+
+top - 21:36:50 up  5:56,  1 user,  load average: 5,16, 5,04, 3,50
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10,5 us,  1,1 sy, 36,9 ni, 51,4 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    398,3 free,   2925,3 used,   4489,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3857,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1382920 557380  23544 S 319,6   7,0  52:52.89 cartogr+
+
+top - 21:36:53 up  5:56,  1 user,  load average: 5,39, 5,09, 3,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8,1 us,  1,6 sy, 43,5 ni, 46,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    442,5 free,   2881,8 used,   4488,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3901,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1391116 557380  23544 S 370,0   7,0  53:03.99 cartogr+
+
+top - 21:36:56 up  5:56,  1 user,  load average: 5,39, 5,09, 3,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3,4 us,  1,2 sy, 41,6 ni, 53,7 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    418,8 free,   2913,2 used,   4481,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3877,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1426572 592752  23544 S 346,3   7,4  53:14.38 cartogr+
+
+top - 21:36:59 up  5:56,  1 user,  load average: 5,35, 5,09, 3,53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,0 us,  0,8 sy, 35,7 ni, 59,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    457,2 free,   2876,3 used,   4479,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3916,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1391116 557380  23544 S 298,0   7,0  53:23.35 cartogr+
+
+top - 21:37:02 up  5:56,  1 user,  load average: 5,25, 5,07, 3,53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,5 us,  0,8 sy, 47,0 ni, 47,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    457,0 free,   2878,3 used,   4477,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3915,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1391116 557380  23544 S 387,0   7,0  53:34.96 cartogr+
+
+top - 21:37:05 up  5:56,  1 user,  load average: 5,25, 5,07, 3,53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,7 us,  1,0 sy, 47,5 ni, 46,7 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    457,0 free,   2880,5 used,   4475,3 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3916,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1391116 557380  23544 S 391,4   7,0  53:46.74 cartogr+
+
+top - 21:37:08 up  5:56,  1 user,  load average: 5,15, 5,06, 3,54
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,7 us,  0,9 sy, 48,2 ni, 46,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    462,7 free,   2878,2 used,   4472,0 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3922,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1391116 557380  23544 S 397,3   7,0  53:58.66 cartogr+
+
+top - 21:37:11 up  5:56,  1 user,  load average: 5,15, 5,06, 3,54
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,4 us,  0,9 sy, 47,7 ni, 47,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    533,6 free,   2810,2 used,   4469,1 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3992,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 R 391,3   6,1  54:10.40 cartogr+
+
+top - 21:37:14 up  5:56,  1 user,  load average: 4,81, 4,99, 3,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,0 us,  1,1 sy, 48,8 ni, 46,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    540,3 free,   2807,8 used,   4464,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3997,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S 401,7   6,1  54:22.45 cartogr+
+
+top - 21:37:17 up  5:56,  1 user,  load average: 4,91, 5,01, 3,54
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,1 us,  0,7 sy, 48,7 ni, 46,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    553,0 free,   2795,6 used,   4464,4 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4010,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S 397,7   6,1  54:34.42 cartogr+
+
+top - 21:37:20 up  5:56,  1 user,  load average: 4,91, 5,01, 3,54
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,1 us,  1,0 sy, 48,8 ni, 46,0 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    551,5 free,   2797,9 used,   4463,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4009,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S 401,0   6,1  54:46.45 cartogr+
+
+top - 21:37:23 up  5:56,  1 user,  load average: 4,84, 4,99, 3,54
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,3 us,  1,1 sy, 48,6 ni, 45,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    553,7 free,   2797,6 used,   4461,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4011,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S 399,0   6,1  54:58.42 cartogr+
+
+top - 21:37:26 up  5:56,  1 user,  load average: 4,84, 4,99, 3,54
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,8 us,  0,9 sy, 48,7 ni, 45,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    553,6 free,   2799,4 used,   4459,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4011,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S 400,0   6,1  55:10.46 cartogr+
+
+top - 21:37:29 up  5:56,  1 user,  load average: 4,85, 4,99, 3,55
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4,5 us,  1,1 sy, 36,9 ni, 57,4 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    553,4 free,   2800,7 used,   4458,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4011,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S 305,7   6,1  55:19.63 cartogr+
+
+top - 21:37:32 up  5:56,  1 user,  load average: 4,54, 4,92, 3,53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,9 us,  0,8 sy,  0,1 ni, 93,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    560,5 free,   2796,9 used,   4455,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4018,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  20,7   6,1  55:20.25 cartogr+
+
+top - 21:37:35 up  5:56,  1 user,  load average: 4,54, 4,92, 3,53
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,2 us,  1,3 sy,  0,1 ni, 92,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    559,5 free,   2798,9 used,   4454,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4017,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:20.89 cartogr+
+
+top - 21:37:38 up  5:56,  1 user,  load average: 4,18, 4,84, 3,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,9 us,  1,1 sy,  0,1 ni, 92,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    560,2 free,   2798,2 used,   4454,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4018,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:21.53 cartogr+
+
+top - 21:37:41 up  5:56,  1 user,  load average: 4,18, 4,84, 3,52
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,0 us,  1,1 sy,  0,0 ni, 92,9 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    565,8 free,   2791,5 used,   4455,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4023,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:22.17 cartogr+
+
+top - 21:37:44 up  5:57,  1 user,  load average: 3,92, 4,78, 3,50
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,0 us,  1,0 sy,  0,1 ni, 92,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    560,2 free,   2798,1 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4018,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 R  20,6   6,1  55:22.79 cartogr+
+
+top - 21:37:47 up  5:57,  1 user,  load average: 3,69, 4,71, 3,49
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,0 us,  1,1 sy,  0,1 ni, 92,7 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    564,0 free,   2794,2 used,   4454,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4022,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 R  21,3   6,1  55:23.43 cartogr+
+
+top - 21:37:50 up  5:57,  1 user,  load average: 3,69, 4,71, 3,49
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,3 us,  1,1 sy,  0,1 ni, 92,3 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    562,4 free,   2796,0 used,   4454,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4020,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  20,9   6,1  55:24.06 cartogr+
+
+top - 21:37:53 up  5:57,  1 user,  load average: 3,47, 4,65, 3,47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,1 us,  1,1 sy,  0,0 ni, 92,7 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    564,9 free,   2793,4 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4023,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:24.70 cartogr+
+
+top - 21:37:56 up  5:57,  1 user,  load average: 3,47, 4,65, 3,47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,9 us,  1,0 sy,  0,1 ni, 92,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    564,3 free,   2793,1 used,   4455,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4022,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:25.34 cartogr+
+
+top - 21:37:59 up  5:57,  1 user,  load average: 3,35, 4,61, 3,47
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,2 us,  0,8 sy,  0,0 ni, 92,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    562,2 free,   2795,9 used,   4454,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4020,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,7   6,1  55:25.99 cartogr+
+
+top - 21:38:02 up  5:57,  1 user,  load average: 3,25, 4,56, 3,46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,3 us,  1,1 sy,  0,1 ni, 92,5 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    566,2 free,   2792,0 used,   4454,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4024,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  22,3   6,1  55:26.66 cartogr+
+
+top - 21:38:05 up  5:57,  1 user,  load average: 3,25, 4,56, 3,46
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,3 us,  1,2 sy,  0,1 ni, 92,3 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    561,0 free,   2796,4 used,   4455,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4019,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:27.30 cartogr+
+
+top - 21:38:08 up  5:57,  1 user,  load average: 3,06, 4,50, 3,44
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,0 us,  1,2 sy,  0,1 ni, 92,6 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    561,6 free,   2796,7 used,   4454,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4019,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 R  21,3   6,1  55:27.94 cartogr+
+
+top - 21:38:11 up  5:57,  1 user,  load average: 3,06, 4,50, 3,44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,1 us,  1,1 sy,  0,1 ni, 92,5 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    557,1 free,   2801,2 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4015,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,0   6,1  55:28.57 cartogr+
+
+top - 21:38:14 up  5:57,  1 user,  load average: 2,98, 4,46, 3,44
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,1 us,  1,0 sy,  0,1 ni, 92,7 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    554,7 free,   2803,7 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4012,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  20,9   6,1  55:29.20 cartogr+
+
+top - 21:38:17 up  5:57,  1 user,  load average: 2,82, 4,40, 3,42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,1 us,  1,0 sy,  0,1 ni, 92,7 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    550,6 free,   2807,7 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4008,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:29.84 cartogr+
+
+top - 21:38:20 up  5:57,  1 user,  load average: 2,82, 4,40, 3,42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,8 us,  1,4 sy,  0,1 ni, 92,6 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    558,6 free,   2798,8 used,   4455,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4016,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,6   6,1  55:30.49 cartogr+
+
+top - 21:38:23 up  5:57,  1 user,  load average: 2,75, 4,36, 3,42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,3 us,  0,8 sy,  0,1 ni, 92,7 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    555,7 free,   2802,6 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4013,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,7   6,1  55:31.14 cartogr+
+
+top - 21:38:26 up  5:57,  1 user,  load average: 2,75, 4,36, 3,42
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,9 us,  1,0 sy,  0,1 ni, 93,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    557,9 free,   2800,4 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4016,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,0   6,1  55:31.77 cartogr+
+
+top - 21:38:29 up  5:57,  1 user,  load average: 2,61, 4,31, 3,40
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,8 us,  1,0 sy,  0,1 ni, 93,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    558,8 free,   2798,4 used,   4455,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4017,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 R  21,3   6,1  55:32.41 cartogr+
+
+top - 21:38:32 up  5:57,  1 user,  load average: 2,56, 4,27, 3,39
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,8 us,  1,0 sy,  0,1 ni, 93,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    559,0 free,   2799,3 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4017,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:33.05 cartogr+
+
+top - 21:38:35 up  5:57,  1 user,  load average: 2,56, 4,27, 3,39
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,2 us,  1,1 sy,  0,1 ni, 92,7 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    564,3 free,   2794,0 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4022,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:33.69 cartogr+
+
+top - 21:38:38 up  5:57,  1 user,  load average: 2,36, 4,20, 3,38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,1 us,  0,8 sy,  0,1 ni, 92,9 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    567,0 free,   2791,4 used,   4454,5 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4025,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,0   6,1  55:34.32 cartogr+
+
+top - 21:38:41 up  5:57,  1 user,  load average: 2,36, 4,20, 3,38
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  5,9 us,  0,8 sy,  0,1 ni, 93,1 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    571,1 free,   2787,2 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4029,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:34.96 cartogr+
+
+top - 21:38:44 up  5:58,  1 user,  load average: 2,17, 4,13, 3,36
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,3 us,  1,1 sy,  0,1 ni, 92,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    568,4 free,   2789,0 used,   4455,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4026,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:35.60 cartogr+
+
+top - 21:38:47 up  5:58,  1 user,  load average: 2,16, 4,09, 3,35
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,4 us,  0,9 sy,  0,1 ni, 92,5 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    570,7 free,   2787,6 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4028,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,3   6,1  55:36.24 cartogr+
+
+top - 21:38:50 up  5:58,  1 user,  load average: 2,16, 4,09, 3,35
+Tasks:   1 total,   1 running,   0 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,3 us,  1,4 sy,  0,1 ni, 92,1 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    567,0 free,   2790,1 used,   4455,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4025,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 R  21,3   6,1  55:36.88 cartogr+
+
+top - 21:38:53 up  5:58,  1 user,  load average: 1,98, 4,02, 3,33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  6,3 us,  1,3 sy,  0,1 ni, 92,2 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    561,9 free,   2794,3 used,   4456,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4020,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,6   6,1  55:37.53 cartogr+
+
+top - 21:38:56 up  5:58,  1 user,  load average: 1,98, 4,02, 3,33
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  7,1 us,  1,6 sy,  0,0 ni, 91,1 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    560,3 free,   2797,7 used,   4454,9 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4018,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  21,0   6,1  55:38.16 cartogr+
+
+top - 21:38:59 up  5:58,  1 user,  load average: 1,82, 3,96, 3,31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 10,4 us,  2,4 sy,  0,1 ni, 87,0 id,  0,0 wa,  0,0 hi,  0,1 si,  0,0 st
+MiB Mem :   7812,9 total,    553,2 free,   2805,2 used,   4454,6 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4011,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  20,3   6,1  55:38.77 cartogr+
+
+top - 21:39:02 up  5:58,  1 user,  load average: 1,84, 3,92, 3,31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9,5 us,  2,0 sy,  0,1 ni, 88,2 id,  0,1 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    555,8 free,   2801,3 used,   4455,8 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   4014,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  19,9   6,1  55:39.37 cartogr+
+
+top - 21:39:05 up  5:58,  1 user,  load average: 1,84, 3,92, 3,31
+Tasks:   1 total,   0 running,   1 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9,6 us,  2,4 sy,  0,1 ni, 87,8 id,  0,0 wa,  0,0 hi,  0,0 si,  0,0 st
+MiB Mem :   7812,9 total,    538,2 free,   2804,0 used,   4470,7 buff/cache
+MiB Swap:   1946,1 total,   1944,8 free,      1,2 used.   3996,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  66562 minh253   20   0 1324788 491180  23544 S  20,7   6,1  55:39.99 cartogr+
